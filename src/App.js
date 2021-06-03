@@ -1,6 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
 
+//import MyContract from 'contracts/MyContract.json';
+
+//instatice web3 + contracts instance
+
 function App() {
   return (
     <div className="App">
